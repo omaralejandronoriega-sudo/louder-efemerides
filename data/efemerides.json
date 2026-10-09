@@ -1,1 +1,348 @@
-{"generated_at":"2026-10-08 · base inicial; pendiente de verificación editorial","records":[{"type":"birthday","name":"Alex Turner","project":"Arctic Monkeys","date":"1986-01-06","status":"Revisión editorial pendiente"},{"type":"birthday","name":"Julian Casablancas","project":"The Strokes","date":"1978-08-23","status":"Revisión editorial pendiente"},{"type":"birthday","name":"Brandon Flowers","project":"The Killers","date":"1981-06-21","status":"Revisión editorial pendiente"}]}
+{
+  "generated_at": "2026-10-08",
+  "source_sheet": "Cumpleaños 500",
+  "records": [
+    {
+      "type": "birthday",
+      "name": "Alex Turner",
+      "project": "Arctic Monkeys",
+      "date": "1986-01-06",
+      "role": "Voz",
+      "priority": "A",
+      "status": "Revisión editorial pendiente"
+    },
+    {
+      "type": "birthday",
+      "name": "Julian Casablancas",
+      "project": "The Strokes / The Voidz",
+      "date": "1978-08-23",
+      "role": "Voz",
+      "priority": "A",
+      "status": "Revisión editorial pendiente"
+    },
+    {
+      "type": "birthday",
+      "name": "Brandon Flowers",
+      "project": "The Killers",
+      "date": "1981-06-21",
+      "role": "Voz",
+      "priority": "A",
+      "status": "Revisión editorial pendiente"
+    },
+    {
+      "type": "birthday",
+      "name": "Matthew Bellamy",
+      "project": "Muse",
+      "date": null,
+      "role": "Voz",
+      "priority": "A",
+      "status": "Pendiente"
+    },
+    {
+      "type": "birthday",
+      "name": "Paul Banks",
+      "project": "Interpol",
+      "date": null,
+      "role": "Voz",
+      "priority": "A",
+      "status": "Pendiente"
+    },
+    {
+      "type": "birthday",
+      "name": "Kele Okereke",
+      "project": "Bloc Party",
+      "date": null,
+      "role": "Voz",
+      "priority": "A",
+      "status": "Pendiente"
+    },
+    {
+      "type": "birthday",
+      "name": "Yannis Philippakis",
+      "project": "Foals",
+      "date": null,
+      "role": "Voz",
+      "priority": "A",
+      "status": "Pendiente"
+    },
+    {
+      "type": "birthday",
+      "name": "Alex Kapranos",
+      "project": "Franz Ferdinand",
+      "date": null,
+      "role": "Voz",
+      "priority": "A",
+      "status": "Pendiente"
+    },
+    {
+      "type": "birthday",
+      "name": "Matty Healy",
+      "project": "The 1975",
+      "date": null,
+      "role": "Voz",
+      "priority": "A",
+      "status": "Pendiente"
+    },
+    {
+      "type": "birthday",
+      "name": "Karen O",
+      "project": "Yeah Yeah Yeahs",
+      "date": null,
+      "role": "Voz",
+      "priority": "A",
+      "status": "Pendiente"
+    },
+    {
+      "type": "birthday",
+      "name": "Hayley Williams",
+      "project": "Paramore",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "Dave Gahan",
+      "project": "Depeche Mode",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "Robert Smith",
+      "project": "The Cure",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "Damon Albarn",
+      "project": "Gorillaz / Blur",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "Bobby Gillespie",
+      "project": "Primal Scream",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "Rachel Goswell",
+      "project": "Slowdive",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "Neil Halstead",
+      "project": "Slowdive",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "Davey Havok",
+      "project": "AFI",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "Chino Moreno",
+      "project": "Deftones",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "Nick Cave",
+      "project": "Nick Cave & the Bad Seeds",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "Ira Kaplan",
+      "project": "Yo La Tengo",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "Georgia Hubley",
+      "project": "Yo La Tengo",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "John McCrea",
+      "project": "Cake",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "Carl Barât",
+      "project": "The Libertines",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "Liam Gallagher",
+      "project": "Oasis",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "Chris Cornell",
+      "project": "Soundgarden",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "David Byrne",
+      "project": "Talking Heads",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "Nikolai Fraiture",
+      "project": "The Strokes",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "Kazu Makino",
+      "project": "Blonde Redhead",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "Patrick Wolf",
+      "project": "Patrick Wolf",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "Michael Kiwanuka",
+      "project": "Michael Kiwanuka",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "Sarah Barthel",
+      "project": "Phantogram",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "Brooks Nielsen",
+      "project": "The Growlers",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "Sabrina Fuentes",
+      "project": "Pretty Sick",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "James Mercer",
+      "project": "The Shins",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "Phoebe Bridgers",
+      "project": "boygenius",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "Rostam Batmanglij",
+      "project": "Vampire Weekend",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    },
+    {
+      "type": "birthday",
+      "name": "Gus Dapperton",
+      "project": "Gus Dapperton",
+      "date": null,
+      "role": "Voz / integrante",
+      "priority": "B",
+      "status": "Pendiente de verificar"
+    }
+  ]
+}
